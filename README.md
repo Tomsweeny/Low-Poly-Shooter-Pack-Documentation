@@ -1,10 +1,8 @@
 # Low Poly Shooter Pack
 
-## Overview
-
 The _Low Poly Shooter Pack_ is an asset envisioned and created by David Stenfors with the purpose of facilitating the creation of first-person shooter games. The asset first came out as a **Unity-only** package, but has now grown to become a multi-engine project that allows both **Unity** and **Unreal Engine 4** developers to make their very own outstanding first-person games!
 
-Nowadays, the asset has grown, and so has the [team]() behind it! This allows us to make bigger changes and additions, and overall provide developers a better product to use!
+Nowadays, the asset has grown, and so has the [team](https://github.com/GehrmanDante/Low-Poly-Shooter-Pack/blob/main/README.md#team) behind it! This allows us to make bigger changes and additions, and overall provide developers a better product to use!
 
 ### Purpose
 
@@ -14,7 +12,7 @@ Whether you are a new developer, or an industry veteran, you can find a good use
 
 Another significant thing to do with the asset is to use it as reference, or as learning material. This one is possibly the most important reason the asset exists. Educating newer developers, or inspiring more knowledgeable people, is what we strive for! 
 
-That said, we also need inspiration ourselves, so anyone that has any cool ideas or thoughts on how we can improve and make the asset better can [contact]() us!
+That said, we also need inspiration ourselves, so anyone that has any cool ideas or thoughts on how we can improve and make the asset better can [contact](https://github.com/GehrmanDante/Low-Poly-Shooter-Pack/blob/main/README.md#contact) us!
 
 ### Need
 
