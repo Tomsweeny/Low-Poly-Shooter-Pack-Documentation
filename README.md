@@ -30,16 +30,38 @@ We’re just as passionate about making games as you are, so let’s make the be
 
 #### Octavian Tocan
 
+Programmer, person in-charge of making the asset work and behave nicely with our exceptional art assets! 
+
+You can find me on Twitter @GehrmanDante, follow me for some intense content about the asset!
+
 ## Contact
 
 #### Email
 
+Our email is lowpolyshooterpack@gmail.com
+
 #### Twitter
+
+The Twitter account we made for the asset can be found by searching for @lowpolyshooter. We post lots of cool update and other amazing content on there!
 
 #### Youtube
 
+We currently don’t have a YouTube channel for the asset, but [David](https://github.com/GehrmanDante/Low-Poly-Shooter-Pack#david-stenfors) posts content related to the asset every once in a while, so subscribe to his [channel](https://www.youtube.com/channel/UCyMr-C4zbquMN_ZWk7VMpeg)!
+
 ## FAQ
+
+#### When is the Unity version coming out?
+
+The brief answer is that we’re not exactly sure when the Unity version will come out. The longer answer is that we’re currently focusing on finishing the Unreal Engine 4 update we’ve been working on, and as soon as we release that, we intend to work on the Unity version, releasing updates until the two versions are similar.
+
+#### Will the Unity version have ... from the Unreal Engine version?
+
+Yes. Yes, and more yes. 
+
+Although currently the Unity version is behind by lots of updates, this will not stay this way forever. We fully intend to bring both versions to the same level, or as close as humanly possible.
 
 # Repository
 
-## Overview
+We made this repository in order to keep everything related to the Low Poly Shooter Pack together in a single place and give developers a simple way to access all the documentation and other information relating to the asset.
+
+_Note:_ There is no code or assets relating to the pack stored in this public repository, nor will there ever be any. You can find the asset for sale on the [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-54947), or the [Unreal Engine 4 Marketplace](https://www.unrealengine.com/marketplace/en-US/product/low-poly-fps-pack?sessionInvalidated=true).
