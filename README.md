@@ -1,6 +1,6 @@
 # Low Poly Shooter Pack
 
-The _Low Poly Shooter Pack_ is an asset envisioned and created by David Stenfors with the purpose of facilitating the creation of first-person shooter games. The asset first came out as a **Unity-only** package, but has now grown to become a multi-engine project that allows both **Unity** and **Unreal Engine 4** developers to make their very own outstanding first-person games!
+The _Low Poly Shooter Pack_ is an asset envisioned and created by [David Stenfors](https://github.com/GehrmanDante/Low-Poly-Shooter-Pack#david-stenfors) with the purpose of facilitating the creation of first-person shooter games. The asset first came out as a **Unity-only** package, but has now grown to become a multi-engine project that allows both **Unity** and **Unreal Engine 4** developers to make their very own outstanding first-person games!
 
 Nowadays, the asset has grown, and so has the [team](https://github.com/GehrmanDante/Low-Poly-Shooter-Pack/blob/main/README.md#team) behind it! This allows us to make bigger changes and additions, and overall provide developers a better product to use!
 
@@ -32,7 +32,7 @@ We’re just as passionate about making games as you are, so let’s make the be
 
 Programmer, person in-charge of making the asset work and behave nicely with our exceptional art assets! 
 
-You can find me on Twitter @GehrmanDante, follow me for some intense content about the asset!
+You can find me on Twitter [@GehrmanDante](https://twitter.com/GehrmanDante), follow me for some intense content about the asset!
 
 ## Contact
 
@@ -42,7 +42,7 @@ Our email is lowpolyshooterpack@gmail.com
 
 #### Twitter
 
-The Twitter account we made for the asset can be found by searching for @lowpolyshooter. We post lots of cool update and other amazing content on there!
+The Twitter account we made for the asset can be found by searching for [@lowpolyshooter](https://twitter.com/lowpolyshooter). We post lots of cool update and other amazing content on there!
 
 #### Youtube
 
