@@ -5,7 +5,7 @@
 
 .. _index:
 
-LeXtudio Support Documentation
+Low Poly Shooter Pack
 ==============================
 
 Topics
