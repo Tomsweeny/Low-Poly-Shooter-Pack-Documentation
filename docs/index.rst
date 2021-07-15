@@ -18,7 +18,7 @@ The Low Poly Shooter Pack makes it easier than ever to make
 high-quality shooter games by providing you with ready-made systems,
 animations, 3D models and many more!
 
-Highly Polished Content |:arrows_counterclockwise:|
+Highly Polished Content
     We strive to release content that is ultra polished so we can
     confidently say that any game made using this pack will look and
     feel like a good game.
@@ -26,7 +26,7 @@ Highly Polished Content |:arrows_counterclockwise:|
     Learning from popular games is very important for us too, which is 
     why some of our features may resemble ones from super popular games!
     
-Commented Codebase |:heartbeat:|
+Commented Codebase
     Our big codebase is full of helpful comments explaining why the code
     is written the way it is, and what each litle things does.
     
