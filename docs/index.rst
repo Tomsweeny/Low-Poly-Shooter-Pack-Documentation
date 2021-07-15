@@ -14,9 +14,6 @@
 Low Poly Shooter Pack | Unreal Engine
 ==============================
 
-Topics
-------
-
 The Low Poly Shooter Pack makes it easier than ever to make
 high-quality shooter games by providing you with ready-made systems,
 animations, 3D models and many more!
