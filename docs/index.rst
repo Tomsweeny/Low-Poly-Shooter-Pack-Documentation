@@ -11,7 +11,7 @@
 .. toctree::
     :titlesonly:
 
-Low Poly Shooter Pack | Unreal Engine
+Low Poly Shooter Pack
 ==============================
 
 The Low Poly Shooter Pack makes it easier than ever to make
